@@ -1,0 +1,30 @@
+Website URL,HSTS,HSTS_max_age,CSP,XCTO,XFO,Referrer_Policy,Perm_Policy,TLS_Version,HTTP_Code,Server,CORS,Cookie_HttpOnly,Cookie_Secure
+https://www.nitk.ac.in/,0,0,0,0,SAMEORIGIN,no-referrer-when-downgrade,0,11,200,nginx,None,1,0
+https://manipal.edu/,1,31536000,0,1,"SAMEORIGIN, SAMEORIGIN, SAMEORIGIN",strict-origin,0,11,200,Apache,SAMEORIGIN,0,0
+https://www.iisc.ac.in/,0,0,0,0,None,None,0,11,403,Microsoft-Azure-Application-Gateway/v2,None,0,0
+https://iiitb.ac.in/,0,0,0,0,None,None,0,11,200,Apache/2.4.54 (Win64) OpenSSL/1.1.1p PHP/7.4.30,None,1,0
+https://www.rvce.edu.in/,0,0,0,1,SAMEORIGIN,None,0,11,200,Apache,None,0,0
+https://bmsce.ac.in/,0,0,0,0,None,None,0,11,200,LiteSpeed,None,1,1
+https://pes.edu/,0,0,0,0,None,None,0,11,200,Apache,None,0,0
+https://jssstuniv.in/,0,0,0,0,None,None,0,11,200,cloudflare,None,0,0
+https://www.dsce.edu.in/,0,0,0,1,None,None,0,11,200,cloudflare,None,0,0
+https://nmit.ac.in/,0,0,0,0,None,None,0,11,406,Apache,None,0,0
+https://cmrit.ac.in/,0,0,0,0,None,None,0,11,200,Apache/2.4.29 (Ubuntu),None,0,0
+https://newhorizonindia.edu/,0,0,0,0,None,None,0,11,200,Apache/2.4.58 (Ubuntu),None,0,0
+https://acharya.ac.in/,0,0,0,0,None,None,0,11,200,Apache/2,None,0,0
+https://ewit.edu.in/,0,0,0,0,None,None,0,11,200,nginx/1.23.4,None,0,0
+https://sjbit.edu.in/,0,0,0,0,None,None,0,11,200,Apache,None,0,0
+https://kletech.ac.in/,1,31536000,0,1,SAMEORIGIN,origin,0,11,200,Microsoft-IIS/10.0,*,1,1
+https://uvce.ac.in/,0,0,0,0,None,None,0,11,200,Apache/2.4.29 (Ubuntu),None,0,0
+https://jnnce.ac.in/,0,0,0,0,None,None,0,11,200,Apache,None,0,0
+https://rnsit.ac.in/,0,0,1,0,None,None,0,11,200,LiteSpeed,None,0,0
+https://gsss.edu.in/,0,0,0,0,None,None,0,11,403,Apache,None,0,0
+https://vvce.ac.in/,0,0,0,0,None,None,0,11,200,nginx,None,0,0
+https://www.msruas.ac.in/,1,31536000,0,1,SAMEORIGIN,None,0,11,200,Apache/2.4.52 (Ubuntu),None,1,1
+https://jssateb.ac.in/,0,0,0,0,None,None,0,11,406,Apache,None,0,0
+https://www.btibangalore.org/,0,0,0,0,None,None,0,11,200,Apache,None,0,0
+https://srinivasuniversity.edu.in/,1,2592000,0,0,None,None,0,11,200,Kestrel,None,1,1
+https://www.vsmsrkit.edu.in/,0,0,0,1,SAMEORIGIN,same-origin,0,11,200,nginx,None,0,0
+https://www.rvitm.edu.in/,0,0,0,0,None,None,0,11,200,Apache,None,0,0
+https://www.sharnbasvauniversity.edu.in/,0,0,0,0,None,None,0,11,200,Apache,None,0,0
+https://bit-bangalore.edu.in/,0,0,1,0,None,None,0,11,200,hcdn,None,0,0

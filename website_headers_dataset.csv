@@ -1,0 +1,4 @@
+Website URL,HSTS,HSTS_max_age,CSP,XCTO,XFO,Referrer_Policy,Perm_Policy,TLS_Version,HTTP_Code,Server,CORS,Cookie_HttpOnly,Cookie_Secure
+https://www.nitk.ac.in/,0,0,0,0,SAMEORIGIN,no-referrer-when-downgrade,0,11,200,nginx,None,1,0
+https://manipal.edu/,1,31536000,0,1,"SAMEORIGIN, SAMEORIGIN, SAMEORIGIN",strict-origin,0,11,200,Apache,SAMEORIGIN,0,0
+https://www.iisc.ac.in/,0,0,0,0,None,None,0,11,403,Microsoft-Azure-Application-Gateway/v2,None,0,0

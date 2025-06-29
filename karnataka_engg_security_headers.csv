@@ -1,0 +1,46 @@
+URL,Error
+https://www.iisc.ac.in/,'NoneType' object has no attribute 'sock'
+https://iiitb.ac.in/,'NoneType' object has no attribute 'sock'
+https://www.msrit.edu.in/,"HTTPSConnectionPool(host='www.msrit.edu.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x127144F0>: Failed to resolve 'www.msrit.edu.in' ([Errno 11001] getaddrinfo failed)""))"
+https://www.rvce.edu.in/,'NoneType' object has no attribute 'sock'
+https://bmsce.ac.in/,'NoneType' object has no attribute 'sock'
+https://pes.edu/,'NoneType' object has no attribute 'sock'
+https://www.sit.ac.in/,"HTTPSConnectionPool(host='www.sit.ac.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x12714E68>: Failed to resolve 'www.sit.ac.in' ([Errno 11002] getaddrinfo failed)""))"
+https://jssstuniv.in/,'NoneType' object has no attribute 'sock'
+https://nmamit.nitte.edu.in/,"HTTPSConnectionPool(host='nmamit.nitte.edu.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x12714928>: Failed to resolve 'nmamit.nitte.edu.in' ([Errno 11001] getaddrinfo failed)""))"
+https://www.dsce.edu.in/,'NoneType' object has no attribute 'sock'
+https://nmit.ac.in/,'NoneType' object has no attribute 'sock'
+https://cmrit.ac.in/,'NoneType' object has no attribute 'sock'
+https://alvaseducation.edu.in/,"HTTPSConnectionPool(host='alvaseducation.edu.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x12714970>: Failed to resolve 'alvaseducation.edu.in' ([Errno 11001] getaddrinfo failed)""))"
+https://newhorizonindia.edu/,'NoneType' object has no attribute 'sock'
+https://acharya.ac.in/,'NoneType' object has no attribute 'sock'
+https://ewit.edu.in/,'NoneType' object has no attribute 'sock'
+https://oxfordcollegeofengineering.com/,"HTTPSConnectionPool(host='oxfordcollegeofengineering.com', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x12BD42E0>: Failed to resolve 'oxfordcollegeofengineering.com' ([Errno 11001] getaddrinfo failed)""))"
+https://msengineering.edu.in/,"HTTPSConnectionPool(host='msengineering.edu.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x12BD4640>: Failed to resolve 'msengineering.edu.in' ([Errno 11001] getaddrinfo failed)""))"
+https://sjbit.edu.in/,'NoneType' object has no attribute 'sock'
+https://reva.edu.in/,'NoneType' object has no attribute 'sock'
+https://kletech.ac.in/,'NoneType' object has no attribute 'sock'
+https://bietdvg.edu.in/,"HTTPSConnectionPool(host='bietdvg.edu.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x12714FA0>: Failed to resolve 'bietdvg.edu.in' ([Errno 11001] getaddrinfo failed)""))"
+https://uvce.ac.in/,'NoneType' object has no attribute 'sock'
+https://mitmangalore.in/,"HTTPSConnectionPool(host='mitmangalore.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x12BE4400>: Failed to resolve 'mitmangalore.in' ([Errno 11001] getaddrinfo failed)""))"
+https://mvitbengaluru.ac.in/,"HTTPSConnectionPool(host='mvitbengaluru.ac.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x12BE4850>: Failed to resolve 'mvitbengaluru.ac.in' ([Errno 11001] getaddrinfo failed)""))"
+https://jnnce.ac.in/,'NoneType' object has no attribute 'sock'
+https://rnsit.ac.in/,'NoneType' object has no attribute 'sock'
+https://knsit.ac.in/,"HTTPSConnectionPool(host='knsit.ac.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x12BE4C70>: Failed to resolve 'knsit.ac.in' ([Errno 11001] getaddrinfo failed)""))"
+https://gsss.edu.in/,'NoneType' object has no attribute 'sock'
+https://kvgengg.edu.in/,"HTTPSConnectionPool(host='kvgengg.edu.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x12BE4688>: Failed to resolve 'kvgengg.edu.in' ([Errno 11001] getaddrinfo failed)""))"
+https://bmsit.org/,"HTTPSConnectionPool(host='bmsit.org', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x12714CB8>: Failed to resolve 'bmsit.org' ([Errno 11001] getaddrinfo failed)""))"
+https://mite.mangalore.edu.in/,"HTTPSConnectionPool(host='mite.mangalore.edu.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x12714D48>: Failed to resolve 'mite.mangalore.edu.in' ([Errno 11001] getaddrinfo failed)""))"
+https://vvce.ac.in/,'NoneType' object has no attribute 'sock'
+https://nagarjunacollege.edu.in/,"HTTPSConnectionPool(host='nagarjunacollege.edu.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x12714C10>: Failed to resolve 'nagarjunacollege.edu.in' ([Errno 11001] getaddrinfo failed)""))"
+https://www.msruas.ac.in/,'NoneType' object has no attribute 'sock'
+https://acharya.ac.in/,'NoneType' object has no attribute 'sock'
+https://jssateb.ac.in/,'NoneType' object has no attribute 'sock'
+https://www.btibangalore.org/,'NoneType' object has no attribute 'sock'
+https://smvitm.edu.in/,"HTTPSConnectionPool(host='smvitm.edu.in', port=443): Max retries exceeded with url: / (Caused by NameResolutionError(""<urllib3.connection.HTTPSConnection object at 0x12714A90>: Failed to resolve 'smvitm.edu.in' ([Errno 11001] getaddrinfo failed)""))"
+https://srinivasuniversity.edu.in/,'NoneType' object has no attribute 'sock'
+https://www.vsmsrkit.edu.in/,'NoneType' object has no attribute 'sock'
+https://www.rvitm.edu.in/,'NoneType' object has no attribute 'sock'
+https://www.sharnbasvauniversity.edu.in/,'NoneType' object has no attribute 'sock'
+https://bit-bangalore.edu.in/,'NoneType' object has no attribute 'sock'
+https://gec.karnataka.gov.in/,"HTTPSConnectionPool(host='gec.karnataka.gov.in', port=443): Read timed out. (read timeout=10)"
