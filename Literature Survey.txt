@@ -1,0 +1,79 @@
+### Literature Survey
+
+In the domain of web security, HTTP security headers have emerged as a fundamental layer of defense against a wide array of cyber threats targeting web applications. Recent research has highlighted the persistent gaps in the adoption and implementation of these headers, especially within educational institutions, which are frequent targets due to their open-access nature and large user bases.
+
+Kishnani and Das [1][2] conducted a comprehensive analysis of HTTP security headers across thousands of global websites, revealing that over half received failing security grades, with particularly poor adoption of headers such as HSTS, CSP, and X-Content-Type-Options. Their findings underscore the critical need for improved security posture, especially in sectors handling sensitive data.
+
+A large-scale study by CyCon et al. [3] focused on the adoption rates of key security headers, demonstrating that popular sites are more likely to implement headers like HSTS and X-Content-Type-Options, while less popular and regional sites, including educational domains, lag significantly behind. This trend is echoed in Indian government guidelines, which emphasize the adoption of security headers as a best practice but note inconsistent implementation across institutional websites [4].
+
+The technical efficacy of headers such as X-Frame-Options and Content-Security-Policy in mitigating clickjacking and cross-site scripting (XSS) attacks has been well documented [5][6][7]. Studies by Invicti and Indusface further elaborate on the practical deployment and configuration of these headers, noting that improper or partial implementation leaves sites vulnerable to sophisticated attacks.
+
+Machine learning approaches for classifying and detecting insecure configurations have gained traction. Recent work by JISEM [8] and others [9][10] demonstrates the use of supervised and deep learning models to analyze HTTP headers and detect malicious or insecure patterns, with feature importance analysis identifying headers like HSTS, CSP, and X-Frame-Options as critical determinants of overall security.
+
+Comparative regional studies, though limited, have begun to emerge. Alashwali et al. [11] explored HTTPS security inconsistencies across regions, noting higher application-layer inconsistencies in developing regions. The need for automated, continuous monitoring has been highlighted in recent reviews, with tools leveraging machine learning and analytics to provide real-time insights into web security posture [12][13].
+
+Recent systematic mapping studies [14] and practical guides [15][16] provide a thorough overview of current trends, challenges, and recommendations for improving web security in educational and public sector websites.
+
+### References
+
+[1] U. Kishnani and S. Das, “Analysis of HTTP Security Headers in Popular Global Websites,” arXiv preprint arXiv:2410.14924, 2024. [Online]. Available: https://arxiv.org/html/2410.14924v1
+
+[2] U. Kishnani and S. Das, “Analysis of HTTP Security Headers in Popular Global Websites,” in Communications in Computer and Information Science, vol. 2000, pp. 65–80, 2024. [Online]. Available: https://dl.acm.org/doi/10.1007/978-3-031-80020-7_5
+
+[3] X. CyCon, “HTTP Security Headers Analysis of Top One Million Websites,” in Proceedings of the International Conference on Cyber Conflict, 2018. [Online]. Available: https://ccdcoe.org/uploads/2018/10/Art-18-HTTP-Security-Headers-Analysis-of-Top-One-Million-Websites.pdf
+
+[4] Ministry of Electronics & IT, “Guidelines for Indian Government Websites (GIGW),” 2018. [Online]. Available: https://stqc.gov.in/sites/default/files/Guidelines%20for%20Indian%20Govt%20Websites%20-%20GIGW2018_Released%20version.pdf
+
+[5] LoginRadius, “HTTP Security Headers,” Engineering Blog, Jul. 2020. [Online]. Available: https://www.loginradius.com/blog/engineering/http-security-headers/
+
+[6] Invicti, “HTTP Security Headers and How They Work,” White Paper, 2024. [Online]. Available: https://www.invicti.com/white-papers/whitepaper-http-security-headers/
+
+[7] Indusface, “X-Frame-Options: Examples and Benefits,” 2025. [Online]. Available: https://www.indusface.com/learning/x-frame-options/
+
+[8] S. Kumar et al., “Leveraging Signature Patterns and Machine Learning for Detection of Malicious HTTP Headers,” Journal of Information Security and Emerging Management, vol. 5, no. 1, 2025. [Online]. Available: https://jisem-journal.com/index.php/journal/article/view/1290
+
+[9] S. Sahoo et al., “HTTP header based phishing attack detection using machine learning,” ETT, 2021. [Online]. Available: https://dl.acm.org/doi/10.1002/ett.4872
+
+[10] P. Singh, “CAPEC WebAttack Classifier Model,” GitHub, 2024. [Online]. Available: https://github.com/pritpalcodes/CAPEC_WebAttack_Classifier_Model
+
+[11] E. S. Alashwali et al., “Exploring HTTPS security inconsistencies: A cross-regional study,” Computers & Security, vol. 92, 2020. [Online]. Available: https://www.sciencedirect.com/science/article/abs/pii/S0167404820302480
+
+[12] Comparitech, “10 Best Security Analytics Software for 2025 (Paid & Free),” 2025. [Online]. Available: https://www.comparitech.com/net-admin/security-analytics-software/'
+
+[13] SiteLock, “Three Cybersecurity Automation Tools,” Blog, Nov. 2024. [Online]. Available: https://www.sitelock.com/blog/automation-in-cybersecurity/
+
+[14] R. Kaur et al., “Security testing of web applications: A systematic mapping of the literature,” Journal of King Saud University - Computer and Information Sciences, vol. 34, no. 6, 2022. [Online]. Available: https://www.sciencedirect.com/science/article/pii/S131915782100269X
+
+[15] Mozilla, “Web Security Guidelines,” 2024. [Online]. Available: https://infosec.mozilla.org/guidelines/web_security
+
+[16] Beagle Security, “X-Frame options header not implemented,” 2024. [Online]. Available: https://beaglesecurity.com/blog/vulnerability/x-frame-options-header-not-implemented.html
+
+[17] S. Singh, “A Comparative Study of Web Application Security: Trends & Future Directions,” Studocu, 2022. [Online]. Available: https://www.studocu.com/in/document/deen-dayal-upadhyay-gorakhpur-university/web-development-tools-and-techniques/a-comparative-study-of-web-application-security-pa/106945446
+
+[18] ET Telecom, “Karnataka IT Minister Kharge launches cybersecurity awareness programme,” 2024. [Online]. Available: https://telecom.economictimes.indiatimes.com/news/internet/karnataka-it-minister-kharge-launches-cybersecurity-awareness-programme/111494020
+
+[19] Justdial, “Top Institutes For Cyber Security in Puttur,” 2024. [Online]. Available: https://www.justdial.com/Puttur/Institutes-For-Cyber-Security/nct-10268770
+
+[20] S. Sharma et al., “E-mail Spam Detection using Cybersecurity-Driven Header Analysis,” International Journal of Performability Engineering, vol. 20, no. 4, 2024. [Online]. Available: https://www.ijpe-online.com/EN/10.23940/ijpe.24.04.p2.205213
+
+
+[1] https://arxiv.org/html/2410.14924v1
+[2] https://dl.acm.org/doi/10.1007/978-3-031-80020-7_5
+[3] https://ccdcoe.org/uploads/2018/10/Art-18-HTTP-Security-Headers-Analysis-of-Top-One-Million-Websites.pdf
+[4] https://stqc.gov.in/sites/default/files/Guidelines%20for%20Indian%20Govt%20Websites%20-%20GIGW2018_Released%20version.pdf
+[5] https://www.loginradius.com/blog/engineering/http-security-headers/
+[6] https://www.invicti.com/white-papers/whitepaper-http-security-headers/
+[7] https://www.indusface.com/learning/x-frame-options/
+[8] https://jisem-journal.com/index.php/journal/article/view/1290
+[9] https://dl.acm.org/doi/10.1002/ett.4872
+[10] https://github.com/pritpalcodes/CAPEC_WebAttack_Classifier_Model
+[11] https://www.sciencedirect.com/science/article/abs/pii/S0167404820302480
+[12] https://www.comparitech.com/net-admin/security-analytics-software/
+[13] https://www.sitelock.com/blog/automation-in-cybersecurity/
+[14] https://www.sciencedirect.com/science/article/pii/S131915782100269X
+[15] https://infosec.mozilla.org/guidelines/web_security
+[16] https://beaglesecurity.com/blog/vulnerability/x-frame-options-header-not-implemented.html
+[17] https://www.studocu.com/in/document/deen-dayal-upadhyay-gorakhpur-university/web-development-tools-and-techniques/a-comparative-study-of-web-application-security-pa/106945446
+[18] https://telecom.economictimes.indiatimes.com/news/internet/karnataka-it-minister-kharge-launches-cybersecurity-awareness-programme/111494020
+[19] https://www.justdial.com/Puttur/Institutes-For-Cyber-Security/nct-10268770
+[20] https://www.ijpe-online.com/EN/10.23940/ijpe.24.04.p2.205213

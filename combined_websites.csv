@@ -1,0 +1,79 @@
+Website URL,HSTS,HSTS_max_age,CSP,XCTO,XFO,Referrer_Policy,Perm_Policy,TLS_Version,HTTP_Code,Server,CORS,Cookie_HttpOnly,Cookie_Secure
+https://www.rvce.edu.in/,0,0,0,1,SAMEORIGIN,,0,11,200,Apache,,0,0
+https://bit-bangalore.edu.in/,0,0,1,0,,,0,11,200,hcdn,,0,0
+https://mangaloreuniversity.ac.in/,0,0,0,0,,,0,11,200,Apache/2.4.62 (Unix) OpenSSL/1.1.1k,,0,0
+https://www.cmr.edu.in/,0,0,0,0,,,0,11,200,Apache/2.4.52 (Ubuntu),,0,0
+https://www.siddaganga.org/,0,0,0,0,,,0,11,200,Apache,,0,0
+https://www.oxford.edu.in/,1,31536000,1,1,,strict-origin-when-cross-origin,0,11,200,LiteSpeed,,0,0
+https://www.sharnbasvauniversity.edu.in/,0,0,0,0,,,0,11,200,Apache,,0,0
+https://www.srmist.edu.in/,0,0,0,0,,,0,11,403,awselb/2.0,,0,0
+https://www.kletech.ac.in/,1,31536000,0,1,SAMEORIGIN,origin,0,11,200,Microsoft-IIS/10.0,*,1,1
+https://www.sjbit.edu.in/,0,0,0,0,,,0,11,200,Apache,,0,0
+https://www.msit.in/,0,0,0,0,SAMEORIGIN,,0,11,200,cloudflare,,0,0
+https://www.kssem.edu.in/,0,0,0,1,DENY,,0,11,200,cloudflare,,0,0
+https://www.pes.edu/,0,0,0,0,,,0,11,200,Apache,,0,0
+https://www.kledeemeduniversity.edu.in/,1,15552000,0,1,,,0,11,200,cloudflare,,0,0
+https://www.kluniversity.in/,0,0,0,0,,,0,11,200,Microsoft-IIS/10.0,,0,0
+https://www.sjce.ac.in/,0,0,0,0,,,0,11,200,LiteSpeed,,0,0
+https://www.rajagiritech.ac.in/,1,0,0,0,,,0,11,200,Microsoft-IIS/10.0,,0,0
+https://www.rvce.edu.in/,0,0,0,1,SAMEORIGIN,,0,11,200,Apache,,0,0
+https://www.gtu.ac.in/,0,0,0,0,,,0,11,403,awselb/2.0,,0,1
+https://www.sjbit.edu.in/,0,0,0,0,,,0,11,200,Apache,,0,0
+https://www.acharya.ac.in/,0,0,0,0,,,0,11,200,Apache/2,,0,0
+https://www.klescet.ac.in/,0,0,0,0,,,0,11,200,cloudflare,,0,0
+https://www.kiet.edu/,0,0,0,0,,,0,11,200,Apache/2.4.41 (Ubuntu),,1,1
+https://www.pes.edu/,0,0,0,0,,,0,11,200,Apache,,0,0
+https://www.nitte.edu.in/,0,0,0,1,SAMEORIGIN,,0,11,200,nginx,,0,0
+https://www.msruas.ac.in/,1,31536000,0,1,SAMEORIGIN,,0,11,200,Apache/2.4.52 (Ubuntu),,1,1
+https://www.rnsit.ac.in/,0,0,1,0,,,0,11,200,LiteSpeed,,0,0
+https://www.vtu.ac.in/,0,0,0,0,,,0,11,403,Apache,,0,0
+https://www.kcet.in/,0,0,0,0,,,0,11,406,Apache,,0,0
+https://www.nmit.ac.in/,0,0,0,0,,,0,11,406,Apache,,0,0
+https://www.acharya.ac.in/,0,0,0,0,,,0,11,200,Apache/2,,0,0
+https://www.rvce.edu.in/,0,0,0,1,SAMEORIGIN,,0,11,200,Apache,,0,0
+https://www.sssutms.co.in/,1,0,0,0,,,0,11,200,cloudflare,,0,0
+https://www.bmsce.in/,0,0,0,0,,,0,11,200,LiteSpeed,,0,0
+https://www.kletech.ac.in/,1,31536000,0,1,SAMEORIGIN,origin,0,11,200,Microsoft-IIS/10.0,*,1,1
+https://www.srmuniv.ac.in/,0,0,0,0,,,0,11,403,awselb/2.0,,0,0
+https://www.aitpune.com/,1,31536000,1,1,sameorigin,no-referrer,0,11,200,Unknown,,0,0
+https://www.bmsce.ac.in/,0,0,0,0,,,0,11,200,LiteSpeed,,1,1
+https://www.rvce.edu.in/,0,0,0,1,SAMEORIGIN,,0,11,200,Apache,,0,0
+https://www.iitm.ac.in/,1,31536000,0,0,,,0,11,403,nginx,DENY,0,0
+https://www.annauniv.edu/,0,0,0,0,,,0,11,200,Apache,,0,0
+https://www.srmuniv.ac.in/,0,0,0,0,,,0,11,403,awselb/2.0,,0,0
+https://www.psgtech.edu/,0,0,0,0,,,0,11,200,Apache/2.2.15 (CentOS),,0,0
+https://www.kluniversity.in/,0,0,0,0,,,0,11,200,Microsoft-IIS/10.0,,0,0
+https://www.sastra.edu/,0,0,1,1,SAMEORIGIN,strict-origin,0,11,200,Microsoft-IIS/7.5,,1,0
+https://www.velammal.edu.in/,0,0,0,0,SAMEORIGIN,,0,11,200,LiteSpeed,,0,0
+https://www.kct.ac.in/,0,0,1,0,,,0,11,200,cloudflare,,0,0
+https://www.kalasalingam.ac.in/,0,0,0,0,,,0,11,403,CloudFront,,0,0
+https://www.sethu.ac.in/,0,0,1,0,,,0,11,200,LiteSpeed,,0,0
+https://www.karunya.edu/,0,0,0,1,SAMEORIGIN,,0,11,200,cloudflare,,0,0
+https://www.hindustanuniv.ac.in/,0,0,0,0,,,0,11,200,nginx/1.20.1,,0,0
+https://www.saveetha.ac.in/,0,0,1,0,,,0,11,200,LiteSpeed,,0,0
+https://www.prist.ac.in/,0,0,0,0,,,0,11,200,Apache,,0,0
+https://www.mahendra.info/,0,0,0,0,,,0,11,200,Apache/2.4.10 (Fedora) OpenSSL/1.0.1j-fips PHP/5.6.6 mod_perl/2.0.9dev Perl/v5.18.4,,0,0
+https://www.tce.edu/,0,0,0,1,SAMEORIGIN,,0,11,200,nginx,,0,0
+https://www.mepcoeng.ac.in/,1,31536000,0,0,"DENY, DENY",strict-origin,0,11,200,Microsoft-IIS/10.0,,1,0
+https://www.srmist.edu.in/,0,0,0,0,,,0,11,403,awselb/2.0,,0,0
+https://www.nitt.edu/,0,0,0,0,,,0,11,200,Apache/2.4.6 (CentOS) OpenSSL/1.0.2k-fips PHP/5.4.16,,0,0
+https://www.srmist.edu.in/,0,0,0,0,,,0,11,403,awselb/2.0,,0,0
+https://www.vit.ac.in/,0,0,0,0,DENY,,0,11,200,nginx/1.18.0 (Ubuntu),,0,0
+https://www.pmu.edu/,0,0,0,0,,,0,11,200,Microsoft-IIS/10.0,,1,0
+https://www.psgrkcw.ac.in/,1,15552000,0,1,SAMEORIGIN,strict-origin,0,11,200,cloudflare,,0,0
+https://www.mitindia.edu/,0,0,0,0,,,0,11,200,Apache,,0,0
+https://www.annauniv.edu/,0,0,0,0,,,0,11,200,Apache,,0,0
+https://www.drmgrdu.ac.in/,0,0,0,0,,,0,11,200,nginx,,0,0
+https://www.rajagiri.edu.in/,1,63072000,1,0,"SAMEORIGIN, SAMEORIGIN",,0,11,200,Apache/2.4.62 (Rocky Linux) OpenSSL/3.0.7,*,0,0
+https://www.psr.edu.in/,0,0,0,0,,,0,11,200,Apache,,0,0
+https://www.veltech.edu.in/,0,0,0,0,,no-referrer-when-downgrade,0,11,200,cloudflare,,0,0
+https://www.adit.ac.in/,0,0,0,0,,,0,11,200,Unknown,,0,0
+https://www.kct.ac.in/,0,0,1,0,,,0,11,200,cloudflare,,0,0
+https://www.kcet.ac.in/,0,0,1,0,,,0,11,200,hcdn,,0,0
+https://www.srmist.edu.in/,0,0,0,0,,,0,11,403,awselb/2.0,,0,0
+https://www.psgtech.edu/,0,0,0,0,,,0,11,200,Apache/2.2.15 (CentOS),,0,0
+https://www.nmrec.edu.in/,0,0,0,0,,,0,11,200,Apache,,0,0
+https://www.sssutms.co.in/,1,0,0,0,,,0,11,200,cloudflare,,0,0
+https://www.psgtech.edu/,0,0,0,0,,,0,11,200,Apache/2.2.15 (CentOS),,0,0
+https://www.prist.ac.in/,0,0,0,0,,,0,11,200,Apache,,0,0
+https://www.mepcoeng.ac.in/,1,31536000,0,0,"DENY, DENY",strict-origin,0,11,200,Microsoft-IIS/10.0,,1,0
